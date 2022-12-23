@@ -1,0 +1,12 @@
+1. Automation, puppeteer, browser instance and html evaluation
+2. Crawling vs Scraping, differences and usage
+3. Simulation of human behavior
+    3.1. Randomization, intentional mistakes, typing, scrolling,
+    clicking, hovering
+4. Workarounds for websites that have advanced defending mechanisms
+    4.1. Proxy rotation, vpn's, randomized cron-jobs, windows server 
+5. Starting point, extraction, storage
+    5.1. Find a web page with any kind of content, use puppeteer methods,
+    send data further to CRUD microservice
+6. Live example
+7. Questions
